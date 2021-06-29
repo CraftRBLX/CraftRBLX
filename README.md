@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CraftRBLX
-- 👀 I’m interested in Coding, physics, and math
+- 👀 I’m interested in Math, Science (physics mainly), Coding, Technology, and games (like Minecraft)!
 - 🌱 I’m currently learning the things I haven't learned in the vast...
 HTML,
 CSS,
