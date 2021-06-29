@@ -20,6 +20,6 @@ More:<br>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CraftRBLX&theme=blue-green)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+![Profile View Counter](https://komarev.com/ghpvc/?username=CraftRBLX)
 
 My YouTube Channel - https://www.youtube.com/c/CraftRBLX<br>
