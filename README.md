@@ -29,14 +29,14 @@
 
 # Languages
 
-<img align="left" alt="Angular" width="26px" src="https://craftrblx.github.io/CraftRBLX/angular_logo.png" />
-<img align="left" alt="C++" width="26px" src="https://craftrblx.github.io/CraftRBLX/cpp_logo.png" />
-<img align="left" alt="C#" width="36px" src="https://craftrblx.github.io/CraftRBLX/cs_logo.png" />
-<img align="left" alt="CSS3" width="26px" src="https://craftrblx.github.io/CraftRBLX/css_logo.png" />
-<img align="left" alt="HTML5" width="26px" src="https://craftrblx.github.io/CraftRBLX/html_logo.png" />
-<img align="left" alt="Javascript (ECMAScript 5)" width="26px" src="https://craftrblx.github.io/CraftRBLX/javascript_logo.png" />
-<img align="left" alt="jQuery" width="26px" src="https://craftrblx.github.io/CraftRBLX/jquery2_logo.png" />
-<img align="left" alt="Python" width="26px" src="https://craftrblx.github.io/CraftRBLX/python_logo.png" />
+[<img align="left" alt="Angular" width="26px" src="https://craftrblx.github.io/CraftRBLX/angular_logo.png" />](https://angular.io/)
+[<img align="left" alt="C++" width="26px" src="https://craftrblx.github.io/CraftRBLX/cpp_logo.png" />](https://en.wikipedia.org/wiki/C%2B%2B)
+[<img align="left" alt="C#" width="36px" src="https://craftrblx.github.io/CraftRBLX/cs_logo.png" />](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[<img align="left" alt="CSS3" width="26px" src="https://craftrblx.github.io/CraftRBLX/css_logo.png" />]()
+[<img align="left" alt="HTML5" width="26px" src="https://craftrblx.github.io/CraftRBLX/html_logo.png" />]()
+[<img align="left" alt="Javascript (ECMAScript 5)" width="26px" src="https://craftrblx.github.io/CraftRBLX/javascript_logo.png" />]()
+[<img align="left" alt="jQuery" width="26px" src="https://craftrblx.github.io/CraftRBLX/jquery2_logo.png" />]()
+[<img align="left" alt="Python" width="26px" src="https://craftrblx.github.io/CraftRBLX/python_logo.png" />]()
 
 <br>
 
