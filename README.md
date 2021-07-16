@@ -15,7 +15,7 @@ Unity Universes
 # My stuff...
 
 [<img align="left" alt="Website" width="22px" src="https://craftrblx.github.io/CraftRBLX/internet_symbol_2x.png" />][websitecrold]
-[<img align="left" alt="Website#2" width="22px" src="https://craftrblx.github.io/CraftRBLX/internet_symbol_2x.png" />][websitesaiadvancedportfolio]
+[<img align="left" alt="Website two" width="22px" src="https://craftrblx.github.io/CraftRBLX/internet_symbol_2x.png" />][websiteadvancedportfolio]
 [<img align="left" alt="YouTube Channel" width="22px" src="https://craftrblx.github.io/CraftRBLX/yt_logo.png" />][ytcrebooted]
 [<img align="left" alt="YouTube Channel" width="22px" src="https://craftrblx.github.io/CraftRBLX/yt_logo.png" />][ytcodevibes]
 [<img align="left" alt="YouTube Channel" width="22px" src="https://craftrblx.github.io/CraftRBLX/yt_logo.png" />][ytcrold]
@@ -23,7 +23,7 @@ Unity Universes
 [<img align="left" alt="YouTube Channel" width="22px" src="https://craftrblx.github.io/CraftRBLX/yt_logo.png" />][yttechmcgamezvlogs]
 
 [websitecrold]: https://craftrblx.github.io
-[websitesaiadvancedportfolio]: htttps://saisiddhish.github.io/advanced-portfolio
+[websiteadvancedportfolio]: htttps://saisiddhish.github.io/advanced-portfolio
 [ytcrebooted]: https://youtube.com/c/CraftRBLX
 [ytcodevibes]: https://www.youtube.com/channel/UC2OUBrGSPqJBm4A32YVbe9A
 [ytcrold]: https://youtube.com/channel/UCEh6ZxENe-OzEu_tl3t3s-w
