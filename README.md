@@ -15,7 +15,6 @@ Unity Universes
 # Contact me
 
 [ <img align="left" alt="Website" width="22px" src="https://craftrblx.github.io/CraftRBLX/internet_symbol_2x.png" /> ][websitecrold]
-[ <img align="left" alt="Website 2" width="22px" src="https://craftrblx.github.io/CraftRBLX/internet_symbol_2x.png" /> ][websitesaiadvancedportfolio]
 [ <img align="left" alt="YouTube Channel" width="22px" src="https://craftrblx.github.io/CraftRBLX/yt_logo.png" /> ][ytcrebooted]
 
 
