@@ -32,11 +32,11 @@
 <img align="left" alt="Website #1" width="26px" src="https://craftrblx.github.io/CraftRBLX/angular_icon" />
 <img align="left" alt="Website #1" width="26px" src="https://craftrblx.github.io/CraftRBLX/cpp_logo.png" />
 <img align="left" alt="Website #1" width="26px" src="https://craftrblx.github.io/CraftRBLX/cs_logo.png" />
-<img align="left" alt="Website #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/css_logo.png" />
-<img align="left" alt="Website #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/html_logo.png" />
-<img align="left" alt="Website #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/javascript_logo.png" />
-<img align="left" alt="Website #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/jquery_logo.png" />
-<img align="left" alt="Website #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/python.png" />
+<img align="left" alt="Website #1" width="26px" src="https://craftrblx.github.io/CraftRBLX/css_logo.png" />
+<img align="left" alt="Website #1" width="26px" src="https://craftrblx.github.io/CraftRBLX/html_logo.png" />
+<img align="left" alt="Website #1" width="26px" src="https://craftrblx.github.io/CraftRBLX/javascript_logo.png" />
+<img align="left" alt="Website #1" src="https://craftrblx.github.io/CraftRBLX/jquery_logo.png" />
+<img align="left" alt="Website #1" width="26px" src="https://craftrblx.github.io/CraftRBLX/python.png" />
 
 <br>
 
