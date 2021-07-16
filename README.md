@@ -49,3 +49,7 @@
 [<img align="left" alt="Unity" width="26px" src="https://craftrblx.github.io/CraftRBLX/unity_logo.png" />](https://www.unity.com/)
 
 <br>
+
+# 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
