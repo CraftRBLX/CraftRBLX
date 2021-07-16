@@ -3,6 +3,7 @@ on:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
+  workflow_dispatch:
  
 jobs:
   update-readme-with-youtube:
@@ -13,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCEh6ZxENe-OzEu_tl3t3s-w"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCVOpkHHfu1IG-EZ7jApXXpA"
