@@ -28,5 +28,5 @@
 # Tools
 
 <img align="left" alt="VS Code" width="26px" src="https://craftrblx.github.io/CraftRBLX/vscode_logo.png" />
-<img align="left" alt="Visual Studio" width="26px" src="https://craftrblx.github.io/CraftRBLX/vs_logo.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://craftrblx.github.io/CraftRBLX/vs2_logo.png" />
 <img align="left" alt="Pycharm" width="26px" src="https://craftrblx.github.io/CraftRBLX/pycharm_logo.png" />
