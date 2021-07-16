@@ -54,4 +54,4 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-<img align="left" alt="CraftRBLX's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CraftRBLX&show_icons=true&hide_border=true" />
+<img align="left" alt="CraftRBLX's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CraftRBLX&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=dark" />
