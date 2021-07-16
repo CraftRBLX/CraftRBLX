@@ -14,7 +14,7 @@
 [<img align="left" alt="YouTube Channel" width="22px" src="https://craftrblx.github.io/CraftRBLX/yt_logo.png" />][yttechmcgamezvlogs]
 
 [websitecrold]: https://craftrblx.github.io
-[websiteadvancedportfolio]: htttps://saisiddhish.github.io/advanced-portfolio
+[websiteadvancedportfolio]: https://saisiddhish.github.io/advanced-portfolio
 [ytcrebooted]: https://youtube.com/c/CraftRBLX
 [ytcodevibes]: https://www.youtube.com/channel/UC2OUBrGSPqJBm4A32YVbe9A
 [ytcrold]: https://youtube.com/channel/UCEh6ZxENe-OzEu_tl3t3s-w
