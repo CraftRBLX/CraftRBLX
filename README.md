@@ -35,7 +35,7 @@
 <img align="left" alt="Website #1" width="26px" src="https://craftrblx.github.io/CraftRBLX/css_logo.png" />
 <img align="left" alt="Website #1" width="26px" src="https://craftrblx.github.io/CraftRBLX/html_logo.png" />
 <img align="left" alt="Website #1" width="26px" src="https://craftrblx.github.io/CraftRBLX/javascript_logo.png" />
-<img align="left" alt="Website #1" width="70px" src="https://craftrblx.github.io/CraftRBLX/jquery_logo.png" />
+<img align="left" alt="Website #1" width="90px" src="https://craftrblx.github.io/CraftRBLX/jquery_logo.png" />
 <img align="left" alt="Website #1" width="26px" src="https://craftrblx.github.io/CraftRBLX/python_logo.png" />
 
 <br>
