@@ -12,8 +12,8 @@
 [<img align="left" alt="YouTube Channel #3" width="22px" src="https://craftrblx.github.io/CraftRBLX/yt_logo.png" />][ytcrold]
 [<img align="left" alt="YouTube Channel #4" width="22px" src="https://craftrblx.github.io/CraftRBLX/yt_logo.png" />][yttechmcgamez]
 [<img align="left" alt="YouTube Channel #5" width="22px" src="https://craftrblx.github.io/CraftRBLX/yt_logo.png" />][yttechmcgamezvlogs]
-[<img align="left" alt="Github #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/github_logo.png" />][githubcr]
-[<img align="left" alt="Github #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/github_logo.png" />][githubsai]
+[<img align="left" alt="Github #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/github2_logo.png" />][githubcr]
+[<img align="left" alt="Github #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/github2_logo.png" />][githubsai]
 
 [websitecrold]: https://craftrblx.github.io
 [websitesaiadvancedportfolio]: https://saisiddhish.github.io/advanced-portfolio
