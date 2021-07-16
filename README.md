@@ -45,7 +45,7 @@
 [<img align="left" alt="VS Code" width="26px" src="https://craftrblx.github.io/CraftRBLX/vscode_logo.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="Visual Studio" width="26px" src="https://craftrblx.github.io/CraftRBLX/vs2_logo.png" />](https://visualstudio.microsoft.com/)
 [<img align="left" alt="Pycharm" width="26px" src="https://craftrblx.github.io/CraftRBLX/pycharm_logo.png" />](https://www.jetbrains.com/pycharm/)
-[<img align="left" alt="Git" width="26px" src="https://craftrblx.github.io/CraftRBLX/git_logo.png" />](https://www.git-scm.com/)
+[<img align="left" alt="Git" width="26px" src="https://craftrblx.github.io/CraftRBLX/git_logo.jpg" />](https://www.git-scm.com/)
 [<img align="left" alt="Unity" width="26px" src="https://craftrblx.github.io/CraftRBLX/unity_logo.png" />](https://www.unity.com/)
 
 <br>
