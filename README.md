@@ -32,7 +32,7 @@
 [<img align="left" alt="Angular" width="26px" src="https://craftrblx.github.io/CraftRBLX/angular_logo.png" />](https://angular.io/)
 [<img align="left" alt="C++" width="26px" src="https://craftrblx.github.io/CraftRBLX/cpp_logo.png" />](https://isocpp.org/)
 [<img align="left" alt="C#" width="36px" src="https://craftrblx.github.io/CraftRBLX/cs_logo.png" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img align="left" alt="CSS3" width="28px" src="https://craftrblx.github.io/CraftRBLX/css_logo.png" />](https://www.w3.org/TR/CSS/#css)
+[<img align="left" alt="CSS3" width="40px" src="https://craftrblx.github.io/CraftRBLX/css_logo.png" />](https://www.w3.org/TR/CSS/#css)
 [<img align="left" alt="HTML5" width="26px" src="https://craftrblx.github.io/CraftRBLX/html_logo.png" />](https://html.spec.whatwg.org/)
 [<img align="left" alt="Javascript (ECMAScript 5)" width="26px" src="https://craftrblx.github.io/CraftRBLX/javascript_logo.png" />](https://en.wikipedia.org/wiki/JavaScript/)
 [<img align="left" alt="jQuery" width="26px" src="https://craftrblx.github.io/CraftRBLX/jquery2_logo.png" />](https://jquery.com/)
