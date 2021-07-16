@@ -52,9 +52,4 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Day 7 | 4 WAY BATTLE ROYAL!! | 4 BEYS COLLIDE AT ONCE!!](https://www.youtube.com/watch?v=45kzzyH1Vho)
-- [Day 6 | 7 BEYBLADE TOURNAMENT!!](https://www.youtube.com/watch?v=lzLu1WwHktU)
-- [Day 5 | UNBOXING THE DB STADIUM!! | SUPER BIG BATTLE AREA!!](https://www.youtube.com/watch?v=Gf_rvCewnVk)
-- [Day 4 | DYNAMITE BELIAL WITH F GEAR VS VANISH FAFNIR](https://www.youtube.com/watch?v=akbBqx8EJS0)
-- [Day 3 | UNBOXING VANISH FAFNIR!! | Vanish Fafnir Tapered Kick-3](https://www.youtube.com/watch?v=_tXB3roDPJw)
 <!-- YOUTUBE:END -->
