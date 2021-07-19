@@ -7,7 +7,9 @@
 - 🌱 I’m currently learning EVERYTHING!!!!!!!!!
 
 <details>
-  <summary># My stuff...</summary>
+  <summary>My stuff...</summary>
+
+   # My Stuff...
 
   [<img align="left" alt="Website #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/internet_symbol_2x.png" />][websitecrold]
   [<img align="left" alt="Website #2" width="22px" src="https://craftrblx.github.io/CraftRBLX/internet_symbol_2x.png" />][websitesaiadvancedportfolio]
