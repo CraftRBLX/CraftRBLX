@@ -1,6 +1,8 @@
 [![Website](https://img.shields.io/website?label=craftrblx.github.io&style=for-the-badge&url=https%3A%2F%2Fcraftrblx.github.io)](https://craftrblx.github.io)
 [![Website](https://img.shields.io/website?label=saisiddhish.github.io&style=for-the-badge&url=https%3A%2F%2Fsaisiddhish.github.io)](https://saisiddhish.github.io)
 
+![Discord](https://img.shields.io/discord/864278380785958963?color=%235865F2&label=Discord&logo=Discord&style=for-the-badge)
+
 # Intro
 - 👋 Hi, I’m @CraftRBLX
 - 👀 I’m interested in Math, Science (physics mainly), Coding, Technology, and games (like Minecraft)!
