@@ -1,7 +1,7 @@
 [![Website](https://img.shields.io/website?label=craftrblx.github.io&style=for-the-badge&url=https%3A%2F%2Fcraftrblx.github.io)](https://craftrblx.github.io)
 [![Website](https://img.shields.io/website?label=saisiddhish.github.io&style=for-the-badge&url=https%3A%2F%2Fsaisiddhish.github.io)](https://saisiddhish.github.io)
 
-![Discord](https://img.shields.io/discord/864278380785958963?color=%235865F2&label=Discord&logo=Discord&style=for-the-badge)
+[![Discord](https://img.shields.io/discord/864278380785958963?color=%235865F2&label=Discord&logo=Discord&style=for-the-badge)](https://discord.gg/SFQ8VmyKM3)
 
 # Intro
 - 👋 Hi, I’m @CraftRBLX
