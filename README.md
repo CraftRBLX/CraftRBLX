@@ -32,8 +32,8 @@
 
 # Languages
 
-[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />](https://angular.io/)
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](https://isocpp.org/)
+[<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />](https://angular.io/)
+[<img align="left" alt="C++" width="26px" src="https://craftrblx.github.io/CraftRBLX/cpp_logo.png" />](https://isocpp.org/)
 [<img align="left" alt="C#" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3.org/TR/CSS/#css)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://html.spec.whatwg.org/)
