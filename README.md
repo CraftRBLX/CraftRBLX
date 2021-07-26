@@ -62,7 +62,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [CraftRBLXRebooted's FIRST VIDEO!!!! Oh and intro.](https://www.youtube.com/watch?v=-H4q8ZuoIHU)
+- [CraftRBLXRebooted's FIRST VIDEO!!!! Oh and intro V1.](https://www.youtube.com/watch?v=-H4q8ZuoIHU)
 <!-- YOUTUBE:END -->
   
 <br>
