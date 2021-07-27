@@ -62,8 +62,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [CraftRBLXRebooted Outro V1](https://www.youtube.com/watch?v=b-qe0NGTx8g)
-- [CraftRBLXRebooted Intro V2](https://www.youtube.com/watch?v=SGqK1rtdLUM)
+- [[3] CraftRBLXRebooted Outro V1](https://www.youtube.com/watch?v=b-qe0NGTx8g)
+- [[2] CraftRBLXRebooted Intro V2](https://www.youtube.com/watch?v=SGqK1rtdLUM)
 <!-- YOUTUBE:END -->
   
 <br>
