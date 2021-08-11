@@ -62,6 +62,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[4] 159,673 MPH | INSANE UD SPEED GLITCH!?](https://www.youtube.com/watch?v=EzQpq_RhX1w)
 - [[3] CraftRBLXRebooted Outro V1](https://www.youtube.com/watch?v=b-qe0NGTx8g)
 - [[2] CraftRBLXRebooted Intro V2](https://www.youtube.com/watch?v=SGqK1rtdLUM)
 <!-- YOUTUBE:END -->
