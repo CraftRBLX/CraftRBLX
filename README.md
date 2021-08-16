@@ -8,7 +8,7 @@ Discord Server(s): <br>
 
 Discord Bot(s): <br>
 <!-- [![Discord Bots](https://top.gg/api/widget/873040125012090891.svg)](https://top.gg/bot/873040125012090891) <br> -->
-CR Server Bot 2.0:
+CR Server Bot 2.0: <br>
 [![Discord Bots](https://top.gg/api/widget/status/817498208615137281.svg?noavatar=false)](https://top.gg/bot/817498208615137281)
 
 # Intro
