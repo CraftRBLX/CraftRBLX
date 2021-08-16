@@ -6,9 +6,10 @@ Discord Server(s): <br>
 [![Discord](https://img.shields.io/discord/864278380785958963?color=%235865F2&label=Discord%20(new)&logo=Discord&style=for-the-badge)](https://discord.gg/SFQ8VmyKM3) <br>
 [![Discord](https://img.shields.io/discord/727323216367845417?color=%235865F2&label=Discord%20%28old%29&logo=Discord&logoColor=%235865F2&style=for-the-badge)](https://discord.gg/BHhV8fH) <br>
 
-Discord Bots: <br>
+Discord Bot(s): <br>
 <!-- [![Discord Bots](https://top.gg/api/widget/873040125012090891.svg)](https://top.gg/bot/873040125012090891) <br> -->
-[![Discord Bots](https://top.gg/api/widget/status/817498208615137281.svg?noavatar=true)](https://top.gg/bot/817498208615137281)
+CR Server Bot 2.0:
+[![Discord Bots](https://top.gg/api/widget/status/817498208615137281.svg?noavatar=false)](https://top.gg/bot/817498208615137281)
 
 # Intro
 - 👋 Hi, I’m @CraftRBLX
