@@ -70,11 +70,11 @@ CR Server Bot 2.0: <br>
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[7] The guy who boosted my server](https://www.youtube.com/watch?v=I_IE6BAefaA)
 - [[6] I GOT THE MINECRAFT MIGRATION CAPE!!!!](https://www.youtube.com/watch?v=Ot2FlG7UNS8)
 - [[5] When YouTube Studio Dark mode is here](https://www.youtube.com/watch?v=HBWyTQ5KRls)
 - [[4] 159,673 MPH | INSANE UD SPEED GLITCH!?](https://www.youtube.com/watch?v=EzQpq_RhX1w)
 - [[3] CraftRBLXRebooted Outro V1](https://www.youtube.com/watch?v=b-qe0NGTx8g)
-- [[2] CraftRBLXRebooted Intro V2](https://www.youtube.com/watch?v=SGqK1rtdLUM)
 <!-- YOUTUBE:END -->
   
 <br>
