@@ -70,11 +70,11 @@ CR Server Bot 2.0: <br>
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[11] Finishing a game be liek #shorts](https://www.youtube.com/watch?v=hMP56OGw5CQ)
 - [[10] Minecraft TV #shorts](https://www.youtube.com/watch?v=3mZDugSth9I)
 - [[9] Me and Gang when we see the imposter venting!](https://www.youtube.com/watch?v=BpyW0Rh47eM)
 - [[8] Lighting the first nether portal of the world with enchanted diamond armor](https://www.youtube.com/watch?v=jLqnw31q9aY)
 - [[7] The guy who boosted my server](https://www.youtube.com/watch?v=I_IE6BAefaA)
-- [[6] I GOT THE MINECRAFT MIGRATION CAPE!!!!](https://www.youtube.com/watch?v=Ot2FlG7UNS8)
 <!-- YOUTUBE:END -->
   
 <br>
