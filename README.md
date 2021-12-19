@@ -70,7 +70,7 @@ CR Server Bot 2.0: <br>
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [BTW thanks for 10 subs [Updated]](https://www.youtube.com/watch?v=vsS4gYXdUa0)
+- [btw thanks for 10 subs [Updated]](https://www.youtube.com/watch?v=vsS4gYXdUa0)
 - [[11] Finishing a game be liek #shorts](https://www.youtube.com/watch?v=hMP56OGw5CQ)
 - [[10] Minecraft TV #shorts](https://www.youtube.com/watch?v=3mZDugSth9I)
 - [[9] Me and Gang when we see the imposter venting!](https://www.youtube.com/watch?v=BpyW0Rh47eM)
