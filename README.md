@@ -70,11 +70,11 @@ CR Server Bot 2.0: <br>
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [5 Days 5 Hours 7 Minutes 39 Seconds until Christmas](https://www.youtube.com/watch?v=UAmGzWlOqCo)
 - [btw thanks for 10 subs [Updated]](https://www.youtube.com/watch?v=vsS4gYXdUa0)
 - [[11] Finishing a game be liek #shorts](https://www.youtube.com/watch?v=hMP56OGw5CQ)
 - [[10] Minecraft TV #shorts](https://www.youtube.com/watch?v=3mZDugSth9I)
 - [[9] Me and Gang when we see the imposter venting!](https://www.youtube.com/watch?v=BpyW0Rh47eM)
-- [[8] Lighting the first nether portal of the world with enchanted diamond armor](https://www.youtube.com/watch?v=jLqnw31q9aY)
 <!-- YOUTUBE:END -->
   
 <br>
