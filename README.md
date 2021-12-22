@@ -70,11 +70,11 @@ CR Server Bot 2.0: <br>
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[17] 3 Days 4 Hours 12 Minutes 21 Seconds until Christmas Day 3 EP4](https://www.youtube.com/watch?v=k0tOgYo42-U)
 - [[16] I have gotten 69 views in the last 30 days](https://www.youtube.com/watch?v=vn89Uq-_5CU)
 - [[15] 4 Days 7 Hours 46 Minutes 47 Seconds until Christmas Day 4 EP3](https://www.youtube.com/watch?v=IhoVSNBUwqU)
 - [[14] 5 Days 2 Hours 13 Minutes 53 Seconds until Christmas Day 5 EP2](https://www.youtube.com/watch?v=dtj0p_tj2ek)
 - [[13] 5 Days 5 Hours 7 Minutes 39 Seconds until Christmas Day 5 EP1](https://www.youtube.com/watch?v=UAmGzWlOqCo)
-- [[12] btw thanks for 10 subs [Updated]](https://www.youtube.com/watch?v=vsS4gYXdUa0)
 <!-- YOUTUBE:END -->
   
 <br>
