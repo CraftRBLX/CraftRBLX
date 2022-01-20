@@ -70,11 +70,11 @@ CR Server Bot 2.0: <br>
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Basically I haven&#39;t uploaded recently](https://www.youtube.com/watch?v=nOSgQUI_lKQ)
+- [[22] me sad](https://www.youtube.com/watch?v=tLKL49wqnm4)
+- [[21] Basically I haven&#39;t uploaded recently](https://www.youtube.com/watch?v=nOSgQUI_lKQ)
 - [[20] SubscribeSubscribeSubscribeSubscribeSubscribe](https://www.youtube.com/watch?v=ZnXTLSE-fA8)
 - [[19] Happy &lpar;late&rpar; 2022!](https://www.youtube.com/watch?v=6iAKXCOatm8)
 - [[18] Best way to escape Jailbreak Prison](https://www.youtube.com/watch?v=WkPYzry4iXk)
-- [[18] 2 Days 6 Hours 11 Minutes 49 Seconds until Christmas Day 2 EP5 #shorts](https://www.youtube.com/watch?v=B9VqbCjYX0Y)
 <!-- YOUTUBE:END -->
   
 <br>
