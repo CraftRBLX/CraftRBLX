@@ -70,11 +70,11 @@ CR Server Bot 2.0: <br>
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[24] quiet here huh](https://www.youtube.com/watch?v=xjkOIiSBeO8)
 - [[23] My motivation throughout my school day](https://www.youtube.com/watch?v=gH33xsrZ97I)
 - [[22] me sad](https://www.youtube.com/watch?v=tLKL49wqnm4)
 - [[21] Basically I haven&#39;t uploaded recently](https://www.youtube.com/watch?v=nOSgQUI_lKQ)
 - [[20] SubscribeSubscribeSubscribeSubscribeSubscribe](https://www.youtube.com/watch?v=ZnXTLSE-fA8)
-- [[19] Happy &lpar;late&rpar; 2022!](https://www.youtube.com/watch?v=6iAKXCOatm8)
 <!-- YOUTUBE:END -->
   
 <br>
