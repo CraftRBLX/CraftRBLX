@@ -1,9 +1,10 @@
 Website(s): <br>
 [![Website](https://img.shields.io/website?label=craftrblx.github.io&style=for-the-badge&url=https%3A%2F%2Fcraftrblx.github.io)](https://craftrblx.github.io) <br>
+<!-- [![Website](https://img.shields.io/website?label=saisiddhish.github.io&style=for-the-badge&url=https%3A%2F%2Fsaisiddhish.github.io)](https://saisiddhish.github.io) <br>
 
 Discord Server(s): <br>
 [![Discord](https://img.shields.io/discord/864278380785958963?color=%235865F2&label=Discord%20(new)&logo=Discord&style=for-the-badge)](https://discord.gg/SFQ8VmyKM3) <br>
-[![Discord](https://img.shields.io/discord/727323216367845417?color=%235865F2&label=Discord%20%28old%29&logo=Discord&logoColor=%235865F2&style=for-the-badge)](https://discord.gg/BHhV8fH) <br>
+[![Discord](https://img.shields.io/discord/727323216367845417?color=%235865F2&label=Discord%20%28old%29&logo=Discord&logoColor=%235865F2&style=for-the-badge)](https://discord.gg/BHhV8fH) <br> -->
 
 Discord Bot(s): <br>
 <!-- [![Discord Bots](https://top.gg/api/widget/873040125012090891.svg)](https://top.gg/bot/873040125012090891) <br> -->
@@ -12,12 +13,12 @@ CR Server Bot 2.0: <br>
 
 # Intro
 - 👋 Hi, I’m @CraftRBLX
-- 👀 I’m interested in Math, Science (physics mainly), Coding, Technology, and games (like Minecraft)!
-- 🌱 I’m currently learning EVERYTHING!!!!!!!!!
+- 👀 I’m interested in Math, Science (physics mainly), Coding, Technology, and Games (like Minecraft)!
+- 🌱 I’m currently learning Chrome Extensions
 
 # My Stuff...
 
-[<img align="left" alt="Website #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/internet_symbol_2x.png" />][websitecrold]
+<!-- [<img align="left" alt="Website #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/internet_symbol_2x.png" />][websitecrold]
 [<img align="left" alt="Website #2" width="22px" src="https://craftrblx.github.io/CraftRBLX/internet_symbol_2x.png" />][websitesaiadvancedportfolio]
 [<img align="left" alt="YouTube Channel #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/yt_logo.png" />][ytcrebooted]
 [<img align="left" alt="YouTube Channel #2" width="22px" src="https://craftrblx.github.io/CraftRBLX/yt_logo.png" />][ytcodevibes]
@@ -35,7 +36,7 @@ CR Server Bot 2.0: <br>
 [yttechmcgamez]: https://youtube.com/channel/UCMUr84eGnS0x4uspwzbd-7w
 [yttechmcgamezvlogs]: https://youtube.com/channel/UCKhggC_tm96F031zjJjEOzw
 [githubcr]: https://github.com/CraftRBLX
-[githubsai]: https://github.com/saisiddhish
+[githubsai]: https://github.com/saisiddhish -->
   
 <br>
 
