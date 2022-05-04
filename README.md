@@ -16,9 +16,9 @@ CR Server Bot 2.0: <br>
 - 👀 I’m interested in Math, Science (physics mainly), Coding, Technology, and Games (like Minecraft)!
 - 🌱 I’m currently learning Chrome Extensions
 
-# My Stuff...
+<!-- # My Stuff...
 
-<!-- [<img align="left" alt="Website #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/internet_symbol_2x.png" />][websitecrold]
+[<img align="left" alt="Website #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/internet_symbol_2x.png" />][websitecrold]
 [<img align="left" alt="Website #2" width="22px" src="https://craftrblx.github.io/CraftRBLX/internet_symbol_2x.png" />][websitesaiadvancedportfolio]
 [<img align="left" alt="YouTube Channel #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/yt_logo.png" />][ytcrebooted]
 [<img align="left" alt="YouTube Channel #2" width="22px" src="https://craftrblx.github.io/CraftRBLX/yt_logo.png" />][ytcodevibes]
