@@ -70,11 +70,11 @@ CR Server Bot 2.0: <br>
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [[27] Minecraft is AMONGUS](https://www.youtube.com/watch?v=4H_P4dSdLqM)
-- [[26] Haven&#39;t talked to Pokétwo in quite a while huh?](https://www.youtube.com/watch?v=8x7SJr_nVeQ)
-- [[25] quiet here huh](https://www.youtube.com/watch?v=xjkOIiSBeO8)
-- [[24] My motivation throughout my school day](https://www.youtube.com/watch?v=gH33xsrZ97I)
-- [[23] me sad](https://www.youtube.com/watch?v=tLKL49wqnm4)
+- [I&#39;M BACK!!!!!!](https://www.youtube.com/watch?v=e_1e7b9ktnU)
+- [INTRODUCING CRAFTRBLX &lpar;MY NEW CHANNEL&rpar;!!!!!!!!!!](https://www.youtube.com/watch?v=JQ9gOHPH_Kk)
+- [LAST VIDEO ON THIS CHANNEL😞](https://www.youtube.com/watch?v=qxTFHvtdkls)
+- [SHOULD I RESTART MY YOUTUBE CHANNEL??????](https://www.youtube.com/watch?v=eWHily-vvSQ)
+- [HOW TO GET THE STARRY CAMO SKIN AND EX HOC MUNDO BADGE IN VEHICLE SIMULATOR!! WITH VANILLACAKEMC!!](https://www.youtube.com/watch?v=qzv3ZrUDHtk)
 <!-- YOUTUBE:END -->
   
 <br>
