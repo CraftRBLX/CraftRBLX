@@ -70,11 +70,11 @@ CR Server Bot 2.0: <br>
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [UNLOCKING 2ND SEA!!! &lpar;Blox Fruits&rpar;](https://www.youtube.com/watch?v=7xWp-tboWCQ)
 - [I&#39;M BACK!!!!!!](https://www.youtube.com/watch?v=e_1e7b9ktnU)
 - [INTRODUCING CRAFTRBLX &lpar;MY NEW CHANNEL&rpar;!!!!!!!!!!](https://www.youtube.com/watch?v=JQ9gOHPH_Kk)
 - [LAST VIDEO ON THIS CHANNEL😞](https://www.youtube.com/watch?v=qxTFHvtdkls)
 - [SHOULD I RESTART MY YOUTUBE CHANNEL??????](https://www.youtube.com/watch?v=eWHily-vvSQ)
-- [HOW TO GET THE STARRY CAMO SKIN AND EX HOC MUNDO BADGE IN VEHICLE SIMULATOR!! WITH VANILLACAKEMC!!](https://www.youtube.com/watch?v=qzv3ZrUDHtk)
 <!-- YOUTUBE:END -->
   
 <br>
