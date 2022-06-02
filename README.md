@@ -70,11 +70,11 @@ CR Server Bot 2.0: <br>
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [RUMBLE IS IN STOCK &lpar;Blox Fruits&rpar;](https://www.youtube.com/watch?v=0LfF86sxpy0)
 - [UNLOCKING 2ND SEA!!! &lpar;Blox Fruits&rpar;](https://www.youtube.com/watch?v=7xWp-tboWCQ)
 - [I&#39;M BACK!!!!!!](https://www.youtube.com/watch?v=e_1e7b9ktnU)
 - [INTRODUCING CRAFTRBLX &lpar;MY NEW CHANNEL&rpar;!!!!!!!!!!](https://www.youtube.com/watch?v=JQ9gOHPH_Kk)
 - [LAST VIDEO ON THIS CHANNEL😞](https://www.youtube.com/watch?v=qxTFHvtdkls)
-- [SHOULD I RESTART MY YOUTUBE CHANNEL??????](https://www.youtube.com/watch?v=eWHily-vvSQ)
 <!-- YOUTUBE:END -->
   
 <br>
