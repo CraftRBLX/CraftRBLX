@@ -7,14 +7,14 @@ Discord Server(s): <br>
 [![Discord](https://img.shields.io/discord/727323216367845417?color=%235865F2&label=Discord%20%28old%29&logo=Discord&logoColor=%235865F2&style=for-the-badge)](https://discord.gg/BHhV8fH) <br> -->
 
 Discord Bot(s):
-Max Bot:
+Max Bot: <br>
 [![Discord Bots](https://top.gg/api/widget/status/873040125012090891.svg?noavatar=true)](https://top.gg/bot/873040125012090891) <br>
 CR Server Bot 2.0: <br>
 [![Discord Bots](https://top.gg/api/widget/status/817498208615137281.svg?noavatar=true)](https://top.gg/bot/817498208615137281)
 
 # Intro
 - 👋 Hi, I’m @devsai9
-- 👀 I’m interested in Math, Science (physics mainly), Coding, Technology, and Games (like Minecraft)!
+- 👀 I’m interested in Math, Science (physics mainly), Coding, Technology, and Games (like Roblox & Minecraft)!
 - 🌱 I’m currently learning Chrome Extensions
 
 <!-- # My Stuff...
@@ -43,8 +43,6 @@ CR Server Bot 2.0: <br>
 
 # Languages
 
-[<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />](https://angular.io/)
-[<img align="left" alt="C++" width="28px" src="https://craftrblx.github.io/CraftRBLX/cpp_logo.png" />](https://isocpp.org/)
 [<img align="left" alt="C#" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3.org/TR/CSS/#css)
 [<img align="left" alt="Discord.JS" width="28px" src="https://jasonhaxstuff.gallerycdn.vsassets.io/extensions/jasonhaxstuff/discord-js-tools/0.0.3/1530824658924/Microsoft.VisualStudio.Services.Icons.Default" />](https://www.discord.js.org/)
@@ -60,11 +58,11 @@ CR Server Bot 2.0: <br>
 
 # Tools
 
-[<img align="left" alt="VS Code" width="26px" src="https://craftrblx.github.io/CraftRBLX/vscode_logo.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="Visual Studio" width="26px" src="https://craftrblx.github.io/CraftRBLX/vs2_logo.png" />](https://visualstudio.microsoft.com/)
-[<img align="left" alt="Pycharm" width="26px" src="https://craftrblx.github.io/CraftRBLX/pycharm_logo.png" />](https://www.jetbrains.com/pycharm/)
-[<img align="left" alt="Git" width="26px" src="https://craftrblx.github.io/CraftRBLX/git2_logo.png" />](https://www.git-scm.com/)
-[<img align="left" alt="Unity" width="26px" src="https://craftrblx.github.io/CraftRBLX/unity_logo.png" />](https://www.unity.com/)
+[<img align="left" alt="VS Code" width="26px" src="https://devsai9.github.io/devsai9/vscode_logo.png" />](https://code.visualstudio.com/)
+[<img align="left" alt="Visual Studio" width="26px" src="https://devsai9.github.io/devsai9/vs2_logo.png" />](https://visualstudio.microsoft.com/)
+[<img align="left" alt="Pycharm" width="26px" src="https://devsai9.github.io/devsai9/pycharm_logo.png" />](https://www.jetbrains.com/pycharm/)
+[<img align="left" alt="Git" width="26px" src="https://devsai9.github.io/devsai9/git2_logo.png" />](https://www.git-scm.com/)
+[<img align="left" alt="Unity" width="26px" src="https://devsai9.github.io/devsai9/unity_logo.png" />](https://www.unity.com/)
 
 <br>
 <br>
@@ -83,6 +81,6 @@ CR Server Bot 2.0: <br>
 <details>
   <summary>:zap: Github Stats</summary>
   
-  <img align="left" alt="CraftRBLX's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CraftRBLX&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=dark&bg_color=0d1117" />
+  <img align="left" alt="devsai9's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devsai9&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=dark&bg_color=0d1117" />
 
 </details>
