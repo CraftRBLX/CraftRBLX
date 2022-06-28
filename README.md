@@ -12,7 +12,7 @@ CR Server Bot 2.0: <br>
 [![Discord Bots](https://top.gg/api/widget/status/817498208615137281.svg?noavatar=true)](https://top.gg/bot/817498208615137281)
 
 # Intro
-- 👋 Hi, I’m @CraftRBLX
+- 👋 Hi, I’m @devsai9
 - 👀 I’m interested in Math, Science (physics mainly), Coding, Technology, and Games (like Minecraft)!
 - 🌱 I’m currently learning Chrome Extensions
 
