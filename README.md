@@ -63,6 +63,7 @@ CR Server Bot 2.0: <br>
 [<img align="left" alt="Pycharm" width="26px" src="https://devsai9.github.io/devsai9/pycharm_logo.png" />](https://www.jetbrains.com/pycharm/)
 [<img align="left" alt="Git" width="26px" src="https://devsai9.github.io/devsai9/git2_logo.png" />](https://www.git-scm.com/)
 [<img align="left" alt="Unity" width="26px" src="https://devsai9.github.io/devsai9/unity_logo.png" />](https://www.unity.com/)
+[<img align="left" alt="Roblox Studio" width="26px" src="https://devsai9.github.io/devsai9/roblox_developer_logo.png" />](https://developer.roblox.com/)
 
 <br>
 <br>
