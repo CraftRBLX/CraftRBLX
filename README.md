@@ -1,5 +1,5 @@
 Website(s): <br>
-[![Website](https://img.shields.io/website?label=craftrblx.github.io&style=for-the-badge&url=https%3A%2F%2Fcraftrblx.github.io)](https://craftrblx.github.io) <br>
+[![Website](https://img.shields.io/website?label=devsai9.github.io&style=for-the-badge&url=https%3A%2F%2Fdevsai9.github.io)](https://devsai9.github.io) <br>
 <!-- [![Website](https://img.shields.io/website?label=saisiddhish.github.io&style=for-the-badge&url=https%3A%2F%2Fsaisiddhish.github.io)](https://saisiddhish.github.io) <br>
 
 Discord Server(s): <br>
@@ -48,7 +48,7 @@ CR Server Bot 2.0: <br>
 [<img align="left" alt="Discord.JS" width="28px" src="https://jasonhaxstuff.gallerycdn.vsassets.io/extensions/jasonhaxstuff/discord-js-tools/0.0.3/1530824658924/Microsoft.VisualStudio.Services.Icons.Default" />](https://www.discord.js.org/)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://html.spec.whatwg.org/)
 [<img align="left" alt="Javascript (ECMAScript 5)" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://en.wikipedia.org/wiki/JavaScript/)
-[<img align="left" alt="jQuery" width="26px" src="https://craftrblx.github.io/CraftRBLX/jquery2_logo.png" />](https://jquery.com/)
+[<img align="left" alt="jQuery" width="26px" src="https://devsai9.github.io/devsai9/jquery2_logo.png" />](https://jquery.com/)
 [<img align="left" alt="Node.JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/)
 [<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
 [<img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](https://sass-lang.com/)
