@@ -13,7 +13,7 @@ CR Server Bot 2.0: <br>
 [![Discord Bots](https://top.gg/api/widget/status/817498208615137281.svg?noavatar=true)](https://top.gg/bot/817498208615137281)
 
 # Intro
-- 👋 Hi, I’m @devsai9
+- 👋 Hi, I’m [@devsai9](https://github.com/devsai9)
 - 👀 I’m interested in Math, Science (physics mainly), Coding, Technology, and Games (like Roblox & Minecraft)!
 - 🌱 I’m currently learning Roblox Lua & Roblox Game Development
 
