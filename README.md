@@ -6,7 +6,7 @@ Discord Server(s): <br>
 [![Discord](https://img.shields.io/discord/864278380785958963?color=%235865F2&label=Discord%20(new)&logo=Discord&style=for-the-badge)](https://discord.gg/SFQ8VmyKM3) <br>
 [![Discord](https://img.shields.io/discord/727323216367845417?color=%235865F2&label=Discord%20%28old%29&logo=Discord&logoColor=%235865F2&style=for-the-badge)](https://discord.gg/BHhV8fH) <br> -->
 
-Discord Bot(s):
+Discord Bot(s): <br>
 Max Bot: <br>
 [![Discord Bots](https://top.gg/api/widget/status/873040125012090891.svg?noavatar=true)](https://top.gg/bot/873040125012090891) <br>
 CR Server Bot 2.0: <br>
@@ -15,33 +15,17 @@ CR Server Bot 2.0: <br>
 # Intro
 - 👋 Hi, I’m @devsai9
 - 👀 I’m interested in Math, Science (physics mainly), Coding, Technology, and Games (like Roblox & Minecraft)!
-- 🌱 I’m currently learning Chrome Extensions
+- 🌱 I’m currently learning Roblox Lua & Roblox Game Development
 
-<!-- # My Stuff...
+# Social Links
 
-[<img align="left" alt="Website #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/internet_symbol_2x.png" />][websitecrold]
-[<img align="left" alt="Website #2" width="22px" src="https://craftrblx.github.io/CraftRBLX/internet_symbol_2x.png" />][websitesaiadvancedportfolio]
-[<img align="left" alt="YouTube Channel #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/yt_logo.png" />][ytcrebooted]
-[<img align="left" alt="YouTube Channel #2" width="22px" src="https://craftrblx.github.io/CraftRBLX/yt_logo.png" />][ytcodevibes]
-[<img align="left" alt="YouTube Channel #3" width="22px" src="https://craftrblx.github.io/CraftRBLX/yt_logo.png" />][ytcrold]
-[<img align="left" alt="YouTube Channel #4" width="22px" src="https://craftrblx.github.io/CraftRBLX/yt_logo.png" />][yttechmcgamez]
-[<img align="left" alt="YouTube Channel #5" width="22px" src="https://craftrblx.github.io/CraftRBLX/yt_logo.png" />][yttechmcgamezvlogs]
-[<img align="left" alt="Github #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/github3_logo.png" />][githubcr]
-[<img align="left" alt="Github #1" width="22px" src="https://craftrblx.github.io/CraftRBLX/github3_logo.png" />][githubsai]
+[<img align="left" alt="Hashnode Blog" width="22px" src="https://devsai9.github.io/devsai9/internet_symbol_2x.png" />][https://devsai.hashnode.dev]
+[<img align="left" alt="YouTube Channel" width="22px" src="https://devsai9.github.io/devsai9/yt_logo.png" />][https://www.youtube.com/channel/UCMUr84eGnS0x4uspwzbd-7w]
+[<img align="left" alt="Github Profile" width="22px" src="https://devsai9.github.io/devsai9/github3_logo.png" />][https://github.com/devsai9]
 
-[websitecrold]: https://craftrblx.github.io
-[websitesaiadvancedportfolio]: https://saisiddhish.github.io/advanced-portfolio
-[ytcrebooted]: https://youtube.com/c/CraftRBLX
-[ytcodevibes]: https://www.youtube.com/channel/UC2OUBrGSPqJBm4A32YVbe9A
-[ytcrold]: https://youtube.com/channel/UCEh6ZxENe-OzEu_tl3t3s-w
-[yttechmcgamez]: https://youtube.com/channel/UCMUr84eGnS0x4uspwzbd-7w
-[yttechmcgamezvlogs]: https://youtube.com/channel/UCKhggC_tm96F031zjJjEOzw
-[githubcr]: https://github.com/CraftRBLX
-[githubsai]: https://github.com/saisiddhish -->
-  
 <br>
 
-# Languages
+# Languages I know
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://html.spec.whatwg.org/)
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3.org/TR/CSS/#css)
@@ -58,7 +42,7 @@ CR Server Bot 2.0: <br>
 
 <br>
 
-# Tools
+# Tools I use
 
 [<img align="left" alt="VS Code" width="26px" src="https://devsai9.github.io/devsai9/vscode_logo.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="Visual Studio" width="26px" src="https://devsai9.github.io/devsai9/vs2_logo.png" />](https://visualstudio.microsoft.com/)
