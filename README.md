@@ -19,9 +19,9 @@ CR Server Bot 2.0: <br>
 
 # Social Links
 
-[<img align="left" alt="Hashnode Blog" width="22px" src="https://devsai9.github.io/devsai9/internet_symbol_2x.png" />][https://devsai.hashnode.dev]
-[<img align="left" alt="YouTube Channel" width="22px" src="https://devsai9.github.io/devsai9/yt_logo.png" />][https://www.youtube.com/channel/UCMUr84eGnS0x4uspwzbd-7w]
-[<img align="left" alt="Github Profile" width="22px" src="https://devsai9.github.io/devsai9/github3_logo.png" />][https://github.com/devsai9]
+[<img align="left" alt="Hashnode Blog" width="22px" src="https://devsai9.github.io/devsai9/internet_symbol_2x.png" />](https://devsai.hashnode.dev)
+[<img align="left" alt="YouTube Channel" width="22px" src="https://devsai9.github.io/devsai9/yt_logo.png" />](https://www.youtube.com/channel/UCMUr84eGnS0x4uspwzbd-7w)
+[<img align="left" alt="Github Profile" width="22px" src="https://devsai9.github.io/devsai9/github3_logo.png" />](https://github.com/devsai9)
 
 <br>
 
