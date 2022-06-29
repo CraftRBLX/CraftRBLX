@@ -25,32 +25,15 @@ CR Server Bot 2.0: <br>
 
 <br>
 
-# Languages I know
+# Languages & Tools I know and use
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://html.spec.whatwg.org/)
-[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3.org/TR/CSS/#css)
-[<img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](https://sass-lang.com/)
-[<img align="left" alt="Javascript (ECMAScript 5)" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://en.wikipedia.org/wiki/JavaScript/)
-[<img align="left" alt="jQuery" width="26px" src="https://devsai9.github.io/devsai9/jquery2_logo.png" />](https://jquery.com/)
-[<img align="left" alt="Node.JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/)
-[<img align="left" alt="Discord.JS" width="28px" src="https://jasonhaxstuff.gallerycdn.vsassets.io/extensions/jasonhaxstuff/discord-js-tools/0.0.3/1530824658924/Microsoft.VisualStudio.Services.Icons.Default" />](https://www.discord.js.org/)
-[<img align="left" alt="C#" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
-[<img align="left" alt="Roblox Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />](https://www.lua.org/)
-[<img align="left" alt="MATLAB" width="26px" src="https://devsai9.github.io/devsai9/matlab_logo.png" />](https://www.mathworks.com/products/matlab.html)
+<pre>
+Languages: <a href="https://html.spec.whatwg.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="width: 26px;" alt="HTML 5" title="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="width: 26px;" alt="CSS 3" /></a> <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="width: 26px;" alt="SASS" /></a><a href="https://en.wikipedia.org/wiki/JavaScript/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="width: 26px;" alt="JavaScript" /></a> <a href="https://jquery.com/"><img src="https://devsai9.github.io/devsai9/jquery2_logo.png" style="width: 26px;" alt="jQuery" /></a> <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="width: 26px;" alt="Node.JS" /></a> <a href="https://www.discord.js.org/"><img src="https://jasonhaxstuff.gallerycdn.vsassets.io/extensions/jasonhaxstuff/discord-js-tools/0.0.3/1530824658924/Microsoft.VisualStudio.Services.Icons.Default" style="width: 28px;" alt="Discord.JS" /></a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" style="width: 28px;" alt="https://docs.microsoft.com/en-us/dotnet/csharp/" /></a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" style="width: 28px;" alt="https://docs.microsoft.com/en-us/dotnet/csharp/" /></a> <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="width: 30px;" alt="Python" /></a> <a href="https://www.mathworks.com/products/matlab.html"><img src="https://devsai9.github.io/devsai9/matlab_logo.png" style="width: 26px;" alt="MATLAB" /></a> <a href="https://www.lua.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" style="width: 26px;" alt="Roblox Lua" /></a>
+</pre>
 
-
-<br>
-
-# Tools I use
-
-[<img align="left" alt="VS Code" width="26px" src="https://devsai9.github.io/devsai9/vscode_logo.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="Visual Studio" width="26px" src="https://devsai9.github.io/devsai9/vs2_logo.png" />](https://visualstudio.microsoft.com/)
-[<img align="left" alt="Pycharm" width="26px" src="https://devsai9.github.io/devsai9/pycharm_logo.png" />](https://www.jetbrains.com/pycharm/)
-[<img align="left" alt="Git" width="26px" src="https://devsai9.github.io/devsai9/git2_logo.png" />](https://www.git-scm.com/)
-[<img align="left" alt="Unity" width="26px" src="https://devsai9.github.io/devsai9/unity_logo.png" />](https://www.unity.com/)
-[<img align="left" alt="MATLAB" width="26px" src="https://devsai9.github.io/devsai9/matlab_logo.png" />](https://www.mathworks.com/products/matlab.html)
-[<img align="left" alt="Roblox Studio" width="26px" src="https://devsai9.github.io/devsai9/roblox_developer_logo.png" />](https://developer.roblox.com/)
+<pre>
+Tools:     <a href="https://code.visualstudio.com/"><img src="https://devsai9.github.io/devsai9/vscode_logo.png" style="width: 26px;" alt="Visual Studio Code" /></a> <a href="https://www.git-scm.com/"><img src="https://devsai9.github.io/devsai9/git2_logo.png" style="width: 26px;" alt="Git" /></a>                  <a href="https://replit.com/"><img src="https://devsai9.github.io/devsai9/repl_logo.png" style="width: 26px;" alt="Replit" /></a> <a href="https://visualstudio.microsoft.com/"><img src="https://devsai9.github.io/devsai9/vs2_logo.png" style="width: 26px;" alt="Visual Studio" /></a> <a href="https://www.unity.com/"><img src="https://devsai9.github.io/devsai9/unity_logo.png" style="width: 26px;" alt="Unity" /></a>  <a href="https://www.jetbrains.com/pycharm/"><img src="https://devsai9.github.io/devsai9/pycharm_logo.png" style="width: 26px;" alt="Pycharm" /></a> <a href="https://www.mathworks.com/products/matlab.html"><img src="https://devsai9.github.io/devsai9/matlab_logo.png" style="width: 26px;" alt="MATLAB" /></a> <a href="https://developer.roblox.com/"><img src="https://devsai9.github.io/devsai9/roblox_developer_logo.png" style="width: 26px;" alt="Roblox Lua" /></a>
+</pre>
 
 <br>
 <br>
