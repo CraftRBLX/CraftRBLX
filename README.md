@@ -1,16 +1,17 @@
 Website(s): <br>
-[![Website](https://img.shields.io/website?label=devsai9.github.io&style=for-the-badge&url=https%3A%2F%2Fdevsai9.github.io)](https://devsai9.github.io) <br>
-<!-- [![Website](https://img.shields.io/website?label=saisiddhish.github.io&style=for-the-badge&url=https%3A%2F%2Fsaisiddhish.github.io)](https://saisiddhish.github.io) <br>
+[![Website](https://img.shields.io/website?label=saisiddhish.me&style=for-the-badge&url=https%3A%2F%2Fsaisiddhish.me)](https://saisiddhish.me) <br>
+[![Website](https://img.shields.io/website?label=blog.saisiddhish.me&style=for-the-badge&url=https%3A%2F%2Fblog.saisiddhish.me)](https://blog.saisiddhish.me) <br>
+<!-- [![Website](https://img.shields.io/website?label=saisiddhish.github.io&style=for-the-badge&url=https%3A%2F%2Fsaisiddhish.github.io)](https://saisiddhish.github.io) <br> -->
 
-Discord Server(s): <br>
+<!-- Discord Server(s): <br>
 [![Discord](https://img.shields.io/discord/864278380785958963?color=%235865F2&label=Discord%20(new)&logo=Discord&style=for-the-badge)](https://discord.gg/SFQ8VmyKM3) <br>
-[![Discord](https://img.shields.io/discord/727323216367845417?color=%235865F2&label=Discord%20%28old%29&logo=Discord&logoColor=%235865F2&style=for-the-badge)](https://discord.gg/BHhV8fH) <br>
+[![Discord](https://img.shields.io/discord/727323216367845417?color=%235865F2&label=Discord%20%28old%29&logo=Discord&logoColor=%235865F2&style=for-the-badge)](https://discord.gg/BHhV8fH) <br> -->
 
 Discord Bot(s): <br>
 Max Bot: <br>
 [![Discord Bots](https://top.gg/api/widget/status/873040125012090891.svg?noavatar=true)](https://top.gg/bot/873040125012090891) <br>
 CR Server Bot 2.0: <br>
-[![Discord Bots](https://top.gg/api/widget/status/817498208615137281.svg?noavatar=true)](https://top.gg/bot/817498208615137281) -->
+[![Discord Bots](https://top.gg/api/widget/status/817498208615137281.svg?noavatar=true)](https://top.gg/bot/817498208615137281)
 
 # Intro
 - 👋 Hi, I’m [@devsai9](https://github.com/devsai9)
