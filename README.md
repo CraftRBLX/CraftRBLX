@@ -7,11 +7,11 @@
 [![Discord](https://img.shields.io/discord/864278380785958963?color=%235865F2&label=Discord%20(new)&logo=Discord&style=for-the-badge)](https://discord.gg/SFQ8VmyKM3) <br>
 [![Discord](https://img.shields.io/discord/727323216367845417?color=%235865F2&label=Discord%20%28old%29&logo=Discord&logoColor=%235865F2&style=for-the-badge)](https://discord.gg/BHhV8fH) <br> -->
 
-Discord Bot(s): <br>
+<!-- Discord Bot(s): <br>
 Max Bot: <br>
 [![Discord Bots](https://top.gg/api/widget/status/873040125012090891.svg?noavatar=true)](https://top.gg/bot/873040125012090891) <br>
 CR Server Bot 2.0: <br>
-[![Discord Bots](https://top.gg/api/widget/status/817498208615137281.svg?noavatar=true)](https://top.gg/bot/817498208615137281)
+[![Discord Bots](https://top.gg/api/widget/status/817498208615137281.svg?noavatar=true)](https://top.gg/bot/817498208615137281) -->
 
 # Intro
 - 👋 Hi, I’m [@devsai9](https://github.com/devsai9)
