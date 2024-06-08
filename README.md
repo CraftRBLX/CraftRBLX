@@ -15,8 +15,8 @@ CR Server Bot 2.0: <br>
 
 # Intro
 - 👋 Hi, I’m [@devsai9](https://github.com/devsai9)
-- 👀 I’m interested in Math, Coding, Technology, and Games (like Roblox & Minecraft)!
-- 🌱 I’m currently learning Java & Android Studio
+- 👀 I’m interested in helping and impacting society using AI & ML.
+- 🌱 I’m currently learning Natural Language Processing (NLP) and Large Language Models (LLMs)
 
 # Social Links
 
